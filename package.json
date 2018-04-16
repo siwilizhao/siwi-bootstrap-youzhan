@@ -1,0 +1,22 @@
+{
+  "name": "siwi-bootstrap-youzhan",
+  "version": "1.0.0",
+  "description": "a spider for bootstrap youzhan",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "siwi",
+    "siwilizhao",
+    "spider",
+    "youzhan"
+  ],
+  "author": "siwi",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "siwi-wait": "^1.0.0"
+  }
+}
